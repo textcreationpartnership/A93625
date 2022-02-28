@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speech of a warden to the fellowes of his company: touching the great affaires of the kingdome. Wherein your judgement will stand amazed to decide whether his wisdome or learning did exceed. And doubtlesse is such a speech as was never spoken by any warden since the Citie was made a corporation. / Published by Antibrownistus Puritanomastix.</title>
+            <author>Puritanomastix, Antibrownistus.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93625</idno>
+            <idno type="STC">Wing S4862</idno>
+            <idno type="STC">Thomason E200_47</idno>
+            <idno type="STC">ESTC R13378</idno>
+            <idno type="EEBO-CITATION">99859466</idno>
+            <idno type="PROQUEST">99859466</idno>
+            <idno type="VID">111549</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93625)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111549)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 35:E200[47])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speech of a warden to the fellowes of his company: touching the great affaires of the kingdome. Wherein your judgement will stand amazed to decide whether his wisdome or learning did exceed. And doubtlesse is such a speech as was never spoken by any warden since the Citie was made a corporation. / Published by Antibrownistus Puritanomastix.</title>
+                  <author>Puritanomastix, Antibrownistus.</author>
+                  <author>Puritanomastix, Antibrownistus. Three speeches, being such speeches as the like were never spoken in the city.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for N.V.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire.</note>
+                  <note>Another version of this speech was also printed as part of: Three speeches, being such speeches as the like were never spoken in the city.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Speeches, addresses, etc., English --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111549:1" rendition="simple:additions"/>
+            <p>THE SPEECH OF A WARDEN</p>
+            <p>To the Fellowes of his COMPANY: Touching the great affaires of the <hi>KINGDOME.</hi>
+            </p>
+            <p>Wherein your Judgement will ſtand amazed to decide whether his Wiſdome or Learning did exceed.</p>
+            <p>And doubtleſſe is ſuch a Speech as was never ſpoken by any Warden ſince the Citie was made a Corporation.</p>
+            <p>Publiſhed by <hi>Antibrownistus Puritanomastix.</hi>
+            </p>
+            <p>Printed for <hi>N. <g ref="char:V">Ʋ</g>.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:111549:2"/>
+            <head>The Speech of a WARDEN to the fellowes of his Company.</head>
+            <p>BRethren and fellow Councellors of this never too-wiſe aſſembly: Before I begin my diſcourſe, my duty binds me to render you all humble thanks for your generall Election of me, to wag my beard amongſt you this day, for the good of the Common-Wealth<hi>:</hi> I confeſſe my ſelfe as very a Wood-cock as the beſt of you, and as far unfit for this great imployment, yet (with your patience) I will endea<g ref="char:EOLhyphen"/>your to expreſſe the ſimplicity of my zealous affection to the Weal-pub<g ref="char:EOLhyphen"/>lique, with as much vigour and outragious ſpleen, as my ſhallow capacity can performe.</p>
+            <p>The firſt thing I am bound in conſcience to preſent to your conſideration, is the <hi>Liturgie</hi> of the Church, which is a thing in theſe dayes generally ſpo<g ref="char:EOLhyphen"/>ken againſt and that by our moſt eminent<g ref="char:punc">▪</g> grave and orthodox Coach-men, Weavers, and Brewers-Clerks; nay it is grown odious to our Shee-divines, whoſe eyes, do perpetually look aſquint with the very thought of it. For my part, what this <hi>Liturgie</hi> is, I know not<g ref="char:punc">▪</g> nor care not, yet as ſimple as I am, I am confident it is a hard word, And in my judgement is either Greek or La<g ref="char:EOLhyphen"/>tine or both; from whence I muſt neceſſarily conclude, that there ought no hard words, no Greek nor Latine, nor any that know them come within the Diſcipline of the Church, nor any Language or Linguiſt, but plain Hebrew and Engliſh. Let us therefore avoid this <hi>Liturgie</hi> as a thing whereof we are utterly ignorant, uncapable, and undeſerving. And if it concerne the Com<g ref="char:EOLhyphen"/>mon Prayer (as my ſingular wife ſaith it doth,) then queſtionleſſe (if the new Convocation be but indued with wiſdom correſpondent to mine,) they will doome it to be burnt with ſuch a fire as will conſume it, yea till it be conſumed even as the Loggs in Lincolns-Inn-fields were. And great reaſon, for it hath been the onely cauſe why the Goſpel hath proſpered ſo ſlenderly under the miniſtery of preaching tradeſmen, and Lay Clergy-women, who have coupled themſelves together, in a joynt labour for the procreating of young Saints to fill up the number of this new faith: To which purpoſe how often, and how long have Barnes, Stables, Woods, Saw-pits, Old Ditches, Cel<g ref="char:EOLhyphen"/>lars, yea houſes of Office been their Synagogues, places of excellent privacy, and free from the eyes of the ſinfull, and ſuch of the wicked as will ſpeake worſe then they mean, for certainly their ſpeaking is worſe then our doing. But (to come to my ſubject again, for I had like to have rambled from it,) if this <hi>Liturgie</hi> (that heathen word <hi>Liturgie)</hi> were blotted of out the Church,
+<pb facs="tcp:111549:2"/>
+what an infinite increaſe, and multiplication of ſpirituall children would they ſuddenly beget, inſomuch that the pariſhes would even ſwarme with them. And that in regard of the Liberty they might then uſe, for they are altogether ſo ſtrong of Spirit (by reaſon of high ſare) and as I may ſay ſo zealouſly impudent, that I perſwade my ſelf, they would go toot even in the open ſtreets, and never fear or ſhame to be diſcovered. But I will con<g ref="char:EOLhyphen"/>clude this argument as Goodman <hi>Green</hi> did in the Hebrew tongue in <hi>Hat<g ref="char:EOLhyphen"/>cham Barne</hi> laſt faſting day after dinner, quoth he very excellently, <hi>Quiquid<g ref="char:EOLhyphen"/>libet cuquodlibet,</hi> which according to the beſt tranſlation is, away with the <hi>Liturgie</hi> away with it, and ſo ſay I.</p>
+            <p>The ſecond thing I muſt vex your patience withall, is the <hi>Miliria,</hi> which (although I know not the meaning of it,) yet it is argument ſufficient to me to conceive it abſolutely requiſite; becauſe the King doth abſolutely op<g ref="char:EOLhyphen"/>poſe it. This ſame <hi>Militia</hi> is likewiſe a hard word: And if it be Hebrew (as for ought I know it may be) I ſhould love it the better; but from hence I muſt needs obſerve, that hard words are fitter for the Camp then the Church: And therefore I hold it very neceſſary that thoſe who are Schollers and underſtand hard words, ſhould be compelled (as I think they will be,) to apply themſelves to Military Offices; and in their ſtead thoſe that under<g ref="char:EOLhyphen"/>ſtand nothing be intruſted with Eccleſiaſticall Diſcipline. And further: Touching this <hi>Militia,</hi> what a glorious ſight it is to ſee the Leaders, and their horſes armed in gold and ſilver lace, Gorgets, and Leading-Staves, of beaten plate, Ornaments of excellent uſe in War, for the enemies to make prize on, and is perhaps a witty policy (in caſe of ſurpriſall,) to carry their Ranſomes in the habit of Armour: And then again, to ſee the unſtained Buff and Scarlet, never blemiſht with ſo much as one Crimſon Drop, the new-painted Drummes, and unweather-beaten Enſignes, and chiefly the couragi<g ref="char:EOLhyphen"/>ous Batteries made upon the freſh ayre, with full as much alacrity and un<g ref="char:EOLhyphen"/>daunted ſpirit as if the enemy himſelf had been there ready pitcht for an en<g ref="char:EOLhyphen"/>counter or more, I verily beleeve. What ſay you to me my ſelf that never diſcharged a peece in all my life before it did my heart good to hear my gun crack though I could not ſee it, for indeed I winckt, and yet <hi>I</hi> think in my conſcience <hi>I</hi> could have hit the great Tent (durſt <hi>I</hi> have charged a Bullet,) at more then twenty foot off. Well this <hi>Militia</hi> is a brave thing and as ne<g ref="char:EOLhyphen"/>ceſſary an invention to conſume powder, and to keep us in weekly imploy<g ref="char:EOLhyphen"/>ment in theſe times of ſmall trading, as heart can wiſh: In my opinion it is fit it be incouraged: And that it be ordained (enacted I beleeve it will not be) Colonell of all the hard words that ever came into the City ſince the va<g ref="char:EOLhyphen"/>lient Conqueſt of <hi>Wat Tyler</hi> and <hi>Jack Straw,</hi> performed by a Citizen and predeceſſour of ours.</p>
+            <p>
+               <pb facs="tcp:111549:3"/>
+This <hi>Militia</hi> (being eſtabliſht,) leads me on to my third argument which I doubt not but (by your grave favours) to go through, with as much diſ<g ref="char:EOLhyphen"/>cretion as I have done the two former.</p>
+            <p>And that is the extirpation of the Papiſts. O let us elevate our perſpicu<g ref="char:EOLhyphen"/>ous Noſes, to ſmell out their treacheries that we may be able to root them out, (but not with our Noſes, for that would be ſwiniſh:) And rather then be ſuch beaſts let us be hornd beaſts, (as our Anceſtors and Predeceſſors in all ages have been,) that we may yoke our ſelves together in full ſtrength, and plow them up, as it were the bowels of the earth: Let us heap ſo many croſſes u<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on them till they be afraid to croſſe the way on us, or to croſſe the proverbe or to cut any croſſe Capers, leaſt we interpret every ſuch act, to be direct Popiſh ſuperſtition. And to perfect this extirpation let all men who<g ref="char:EOLhyphen"/>ſoever that are not directly and abſolutely of our opinion minde habit, (if it had been poſſible I would have ſaid wiſdom,) be reputed <hi>Papiſts.</hi> (And ſo they are already,) but I meane let them fall within the limitation and cen<g ref="char:EOLhyphen"/>ſures of all laws eſtabliſht againſt Popery and popiſh innovaſion. And there<g ref="char:EOLhyphen"/>fore let him that honours the name of <hi>Jeſus</hi> be reputed a <hi>Jeſuite,</hi> him that takes degrees at the <hi>univerſities</hi> be held a <hi>Seminary,</hi> and ſo conſequently let them both be hangd drawn and quarterd for high Treaſon, for thats the doome my charity can afford them: Nay let not a woman wear Beads, leaſt we <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>udge ſhe numbers her prayers by them, (unleſſe it be Pearl-beads in a Hatband becauſe my wife her ſelfe (that impregnable piece of devout obſtinacie) hath adjudged and followed that faſhion as a decent wea<g ref="char:EOLhyphen"/>ring, and ſpeciall veſtment, to give evidence of the haughty and vain glo<g ref="char:EOLhyphen"/>rious pride of a Citizens wife. And further, for this purpoſe; Let us draw the King (if it be poſſible) to become no naturall man; that is, never to re<g ref="char:EOLhyphen"/>flect on any man for his excellency of learning, pregnancie of wit, affability and ſweetneſſe of behaviour, fluency of language, or any other perfection of Art or Nature whatſoever, unleſſe he can likewiſe give ſufficient Teſti<g ref="char:EOLhyphen"/>mony of his affection to Roundheadiſme, that he never heard any Com<g ref="char:EOLhyphen"/>mon-prayers, but can pray himſelf four hours, with more vehemencie, than the beſt Divine in Chriſtendome that prayes but a quarter. That he beleeves it not poſſible, that a Sermon in any language under Heaven can ſave a ſoul, except <hi>Engliſh</hi> and <hi>Hebrew.</hi> Now truly, for my part I cannot very perfectly ſpeak this ſame <hi>Hebrew-tongue</hi> I mentioned ſo often; but I honour it, becauſe I take it to be the language they ſpeake at <hi>Amſterdam,</hi> where the moſt famous Lay-Doctors in all the World do exerciſe. But I ſay what a glorious Court would men of theſe qualities and ſaith make: the Kings graces before-meat and after-meat would be longer than his morn<g ref="char:EOLhyphen"/>ing and evening prayers are; the reverſion of his Dyet not given away,
+<pb facs="tcp:111549:3"/>
+but all eaten, as ſwiftly as a <hi>Cormorant</hi> ſwallows an Eele: Embaſſadours would be anſwered, before they had an Audience, even by inſtinct of the ſpirit; long locks would be converted to large ears; Maſques, and Playes to Conventicles, and Pſalm-ſinging; the very ſight or ugly aſpect of them, would flight theſe ſame pritty Taffata-beauties out of the Virge, ſo that no ſinners but themſelves, ſhould come neere the Throne of Majeſty, whereby they would be (as their ambition ever was) the prime ſinners of the Kingdome. How fit would theſe men be for State imployment too? would not <hi>How</hi> the Cobler make a ſpeciall Keeper of the great Seal, in re<g ref="char:EOLhyphen"/>gard of his experience in Wax? Or <hi>Walker</hi> the ſpirituall Bailod-wrighter, become the Office of Secretary of State? Or the <hi>Lock-Smith</hi> that preached in <hi>Crooked-lane,</hi> make an excellent Maſter of the Wards? And the <hi>Taylor</hi> at <hi>Bridewell-Docke,</hi> might be Maiſter of the Liveries. Who fitter to be Maſter of the Horſe, than my Lord <hi>Whatchicallums</hi> Groom? I tell you plainly, he is able to do more ſervice in the Stable, (beſides what he can do in the Pulpit) then he that enjoyes the place. And would not <hi>Browne</hi> the Upholſter, make a proper Groom of the Bedchamber? Why, I my ſelfe am Warden of my Company, and could not I think you as well be Warden of the Cinque Ports? Well, well I, am verily perſwaded we ſhall never at<g ref="char:EOLhyphen"/>tain to theſe preferments; but it doth me good to build a Caſtle in the Aire with the thought of it, to thinke how we ſhould firke the Popiſh and Malignant partie, what now in them is but Petty-larciny, ſhould then be accounted high Treaſon; what now is but Superſtition, ſhould then be blaſ<g ref="char:EOLhyphen"/>phemy, Innovation ſhould be Hereſie, and Latine in a Sermon ſhould be reputed flat Damnation. O there was never any Tyger, Dragon, or Eli<g ref="char:EOLhyphen"/>phant did raign, domineer, rule, and tyrannize as we would do; we would be very Lyons in the <hi>Namean</hi> woods. Hydraes in the <hi>Lernean</hi> Fennes, Eagles in the Skies, Whales in the Seas Pikes in the Rivers and <hi>Neroes</hi> in the Empire; nay, all the Devils in hell, Hags, Furies, Witches, and In<g ref="char:EOLhyphen"/>ſtruments of damnation whatſoever, ſhould never paralell us for inventions to plague theſe luke-warm Locuſts, theſe Mercurialls of Religion that ſtand upon Philoſophy, Reaſon<g ref="char:punc">▪</g> Sence and <hi>I</hi> know not what; as if reaſon and ſence, and ſuch fooleries, were pertinent to religion and the graces of the Spirit. This Rapture had almoſt begot an extaſie m<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me but that a proverb amongſt the wicked came in the nick to cool the fumoſity of my Chollerick rhume, that the curſt Cow hath ſhort horns: And truly now <hi>I</hi> think better on it. whatſoever our mad frenzies do perſwade us to imagine our ſelves, yet we are not the peo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le that muſt have all the ſway, the Kings part will <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ear half; for let us think what we will of our ſelves, the truth is, the wiſer ſort do hold us but Round-heads, ſilly raſcalls, ignorant coxcombs, indiſcreetly zealous
+<pb facs="tcp:111549:4"/>
+fools, yea even Cuckolds, and know us to be ſo too, yet <hi>I</hi> have onely inti<g ref="char:EOLhyphen"/>mated my proper zeale, and cuſtomary deſires unto you, that you might all with my affection expect this happy change, which we would call by the name of Reformation, for this (might it come to paſſe as it never will do,) were a ſure way to baniſh Popery, and bring the Kingdome into a way of extemporary preaching, and ſpirituall blaſphemy. And here <hi>I</hi> end with the Papiſts. <hi>I</hi> ſhould have prolonged my invection againſt them, but that <hi>I</hi> ſaw the Proclamation for executing Laws upon them, wherefore (Though <hi>I</hi> do not love them,) yet <hi>I</hi> think the better of them becauſe the King pur<g ref="char:EOLhyphen"/>ſues them ſo eagerly.</p>
+            <p>The next thing which I will plunder my braines and beat out the very quinteſence of my noddle about, is the deſigne for <hi>Ireland,</hi> upon which ſub<g ref="char:EOLhyphen"/>ject I doubt not but to belabour my invention ſo ſtrongly, that you would thinke <hi>Tully</hi> were making an Oration againſt <hi>Cataline,</hi> or that an Apple-wench were ſcolding with a Pedlar in <hi>Barthalomew faire</hi> about a ſtanding; or that a railing Lecturer were preaching a Sermon of damnation in a re<g ref="char:EOLhyphen"/>probate Auditory: nay, I feare not but you will crown me Cob-warden of all the Wardens in Europe or <hi>New-England;</hi> which is more.</p>
+            <p>The great neceſſity of this Deſigne appeares to my conſcience, but in two particulars onely. Firſt, the reparation of our loſſes paſt: and ſecondly, the expectation of a mighty profit to come; for which two cauſes onely (with<g ref="char:EOLhyphen"/>out any collaterall or other conſideration of blood-ſhed<g ref="char:punc">▪</g> or any thing elſe) I doe urge this unto you. As for our loſſes, they are more then Arirhma<g ref="char:EOLhyphen"/>ticke can number; and that is a great deale you will ſay, yet it is true, though he that counts it eaſie to multiply the Sands and the Starres were to be the accountant. And thus it appeares, many of us here preſent and ma<g ref="char:EOLhyphen"/>ny hundreds more have wittily taken the opportunity of the Rebellion in <hi>Ireland,</hi> to compound their debts here, under pretence of loſſes there; which in my judgement is a moſt inſcrutinous and unſearchable pretence; and he that gave the firſt example thereof deſerves to be made Maſter of the Company of Bankerouts; I would have you all learne it. And I con<g ref="char:EOLhyphen"/>feſſe, I my ſelfe would follow it, but that it doth not agree with the rules of Citie pride; for then I ſhould be compelled to forſake my <hi>Wardenſhip,</hi> and my wife to give the wall, which would breake her heart, or elſe breed ſuch a diſſention betwixt us, that ſhe would breake mine. But I ſay, by vertue of this ingeniouſly miſchievous pretence, you might inrich your debt Bookes to a treble eſtate, and never come within the compaſſe of controlement, and ſo cozen your Creditors and the Comiſſioners of Bankerours with a clenly neat excuſe, and inviſible peece of knavery, I even tickle with the conceit of it: you may thereby preſerve your money to buy Land in <hi>Ire<g ref="char:EOLhyphen"/>land,</hi>
+               <pb facs="tcp:111549:4"/>
+and ſo after the Conqueſt, have that eſtate there in reality, which now you doe but pretend to have. Now truely I thanke you all for that loving Him, it is a moſt evident token of your proneneſſe to take my advice; and I doubt not but to my glory and your comfort, it will be followed with ſpee<g ref="char:EOLhyphen"/>dy effect, eſpecially if the King be not pacified and returne home againe. The ſecond cauſe why I preſſe this Deſigne (as I ſaid before) is the mighty benefit which thereby will acrew; he that adventures two hundred pounds for a thouſand Acres, purchaſeth for the ſaid two hundred pounds, five and twenty pounds a yeere at ſix pence an Acre <hi>per annum,</hi> (I made my man <hi>Jehoſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>phat Singularily</hi> caſt it up this morning.) And this kinde of profit is peculiar onely to us money-mungers. The benefit which will redound to the Souldiers is of another nature, <hi>viz.</hi> that tranſparent and inviſible trea<g ref="char:EOLhyphen"/>ſure called Honour, the proper advancement of all reſolved ſpirits: For alas, what ſhould they doe with Lands or eſtates, to hinder their brave atchieve<g ref="char:EOLhyphen"/>ments and redoubted under-takings. It is enough they come home with halfe their lims, thereby enabled to be Pentioners of the County Treaſury, under the limitation of maimed Souldiers, in genteele ragges, and not a louſe that creepes upon thoſe rags, but a gentleman by the Law of Armes; the totall of their whole Revenue conſiſting of honourable ſcars, and ruſty Whinyards that will not be pawned; arguments of more validity for them to ſwagger, and dam and ſinke withall, then infinite wealth could be; and may but their idoll Fortune be ſo favourable as to afford them meanes to procure Ale and Tobacco, why they will live as happily as the great <hi>Tuk<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>;</hi> though meat and cloathes be things utterly worne out of their memories. And ſo much for this Deſigne.</p>
+            <p>Now for my period, my <hi>ultimum,</hi> my <hi>nil ultra,</hi> the very Garland of my good Will to the Publique; and that is the feares and jealouſies which doe now poſſeſſe the Kingdome; I will but onely grunt you out a modicum, a touch, a reliſh, a ſhort twang of them, and then end with the ſame modeſty, gravity and wiſdome that I began.</p>
+            <p>Concerning theſe Feares and Jealouſies; they are of a moſt dangerous nature and high conſequence, the greateſt that ever was in any Time or Na<g ref="char:EOLhyphen"/>tion; but truly neither I nor any-man living can tell what they are, or from whence they ſhould ariſe: but without all doubt there is great cauſe, or elſe there would not be ſuch talking of them: And it appeares by an example here preſent, for all you that now ſnore ſo lowd, could not have beene ſo ſleepy had not <hi>Fears</hi> and <hi>Jealouſies</hi> kept you waking: Beſides, now I thinke out, there are ſome apparent cauſes, as my ſelf do feare leſt <hi>Jehoſophat</hi> ſhould get my Daughter <hi>Dorcas</hi> with child, for <hi>Jehoſophat</hi> is a notable boy, and hath ſaid prayers at a Conventickle, and the girle hath a ſtrain both of Father
+<pb facs="tcp:111549:5"/>
+and mother in her. You neighbour <hi>Gripe</hi> do fear leaſt your wife ſhould know you keep a whore at <hi>Putney,</hi> and you brother <hi>Bruſh</hi> fear leaſt you ſhould be hangd for ſpeaking high treaſon a gainſt the King; and truly we all fear one thing or other. And for our Jealouſies, all of us here preſent, that have hanſome wives are jealous of them, and not without good cauſe: and thoſe that have not, are jealous of other women, and ſome are jealous of their ſervants; ſo that you ſee there are both Fears and Jealouſies groun<g ref="char:EOLhyphen"/>ded upon conſiderable cauſes. Now truly how to prevent the effects of theſe Fears and Jealouſies, is not within the compaſſe of my Ingenuity: For it is not the <hi>Militia,</hi> the ſtopping of Ports, and holding Gariſon Towns, that can keep our Wives, Daughters, and Servants honeſt, if they have a minde to cockolds, or try whether they be able to fructifie: No, no <hi>Italian Locks</hi> will not do it: nay, for ought I know, your wife neighbor <hi>Spider</hi> may be juſt now at it<g ref="char:punc">▪</g> for I ſaw <hi>Green</hi> the Felt-maker go that way as I came toth Hal: O tremble not neighbor, ſhe hath (no doubt) diſcretion to do nothing but what is ſpirituall and ſecret, meerly to take down the pride of the fleſh, for Ile aſ<g ref="char:EOLhyphen"/>ſure you that Act is as great a help to the mortification of fleſhly deſires, as the longeſt faſt that ever was kept. Now there are other Fears and Jealou<g ref="char:EOLhyphen"/>ſies; but as I ſaid, ſo I ſay again, I cannot imagine from whence they ſhould proceed, unleſſe we ſhould fear leſt the Devill ſhould too ſoon take a ſwift Vengeance on us for our damnable Extortions, and Couſenage in the ſale of out Commodities: And yet why ſhould we fear that we are already ſure on. Well, ſince there is no remedy; we will fear ſtill, and be jealous ſtill: And (without all queſtion) when the Danger comes upon us, we ſhall know the cauſe thereof: In the mean time, I will ſit down and fall aſleep, and hold my peace.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
